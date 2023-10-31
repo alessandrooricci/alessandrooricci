@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alessandrooricci
-- 👀 I’m interested in Biological Sciences and Bioinformatics
+- 👀 I’m interested in Biological Sciences and Informatics
 - 🌱 I’m currently learning Python and R
 - 📫 How to reach me alr5.ricci@gmail.com
 
